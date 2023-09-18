@@ -8,9 +8,5 @@
 <body>
     <h1>Probando</h1>   
     <h2>Otro titulo</h2> 
-    <p>Primer cambio en repositorio remoto</p>
-    <p>primer cambio en repositorio en local <p>
-    <p>Prueba cambiar en repositorio local</p>
-    <p>Cambiando en el repositorio remoto </p>
 </body>
 </html>
